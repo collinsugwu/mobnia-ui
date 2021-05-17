@@ -1,5 +1,9 @@
 # ui
 
+## About The Project
+<p>Gif of task</p>
+<img src="https://res.cloudinary.com/job-boards/image/upload/v1621251869/mobnia_ui_usexjb.gif">
+
 ## Build Setup
 
 ```bash
